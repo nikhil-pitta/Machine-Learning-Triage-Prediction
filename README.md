@@ -1,5 +1,6 @@
 # Machine-Learning-Triage-Prediction
 A machine-learning algorithm designed to predict patient triage scores in the emergency room. 
+Created for Synopsys 2019 Science Fair.
 
 ## Overview
 This program uses a Java-based GUI along with a Python-based machine-learning algorithm to predict and appropriately display triage scores to the user.
