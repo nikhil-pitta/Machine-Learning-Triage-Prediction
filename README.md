@@ -48,7 +48,7 @@ In addition, not all patient symptoms are reliable, as someone might exaggerate 
 ### Weighing Symptoms and Models
 A novel approach to this problem is to use 2 machine learning models. 1 model considers only symptoms while the other considers only vitals (data labeled with triage scores). Given a patient with certain vitals and symptoms, 2 different scores are given based on their vital signs and symptoms. Then, their vital score is multiplied by 0.85 and their symptom score is multiplied by 0.15. These values are then added, thus providing a final score. 
 
-This process can be more concisely illustrated in the following equation: 
+This process can be more concisely illustrated with the following equation: 
 ![](Screen%20Shots/TriageScoreEquation.png)
 
 This equation was found by comparing the vital prediction with the weighted prediction (See Machine Learning Data Analytics for more details). 
