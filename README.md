@@ -21,10 +21,14 @@ To predict new triage scores, data is passed through a Java GUI built with Windo
 This is achieved through:
 1. Java GUI receives symptoms and vitals.
 2. Passes it to Python program.
-3. Java program visually responds to Python program response (ie. Through a pie chart)
+3. Java program visually responds to Python program response (Through a pie chart)
+  - Nurse can click on triage color on chart to reveal table of patients within that triage
 
-Picture of Nurse GUI: 
-INSERT IMAGE OF GUI
+Picture of Nurse GUI with pie chart: 
+![](Screen%20Shots/NurseGUIPieChart.png)
+
+Picture of Nurse GUI after clicking on triage 5:
+![](Screen%20Shots/NurseGUITable.png)
 
 ## Problems
 Intuitively, it may seem that training a single model with symptoms and vitals as features is acceptable. But this will result in a model that is ~50-60% accurate. However, this is not an accurate representation of the model's ability to predict triage scores. 
@@ -32,7 +36,7 @@ Intuitively, it may seem that training a single model with symptoms and vitals a
 To appropriately test the model, rather than basing accuracy on whether the model is right or wrong, it should be determined by observing how far away the model is from the correct answer.
 
 Accuracy Calculation:
-INSERT IMAGE OF EQUATION
+![](Screen%20Shots/AccurateAccuracy.png)
 
 Still, this does not improve the model's accuracy by much (~3% increase). As a result, optimizations have to be taken in the form of what features are considered when making a prediction.
 
@@ -42,7 +46,10 @@ Firstly, not all patient symptoms are valuable. The same information that a symp
 In addition, not all patient symptoms are reliable, as someone might exaggerate their conditions. This means that vital signs should have higher precedence than symptoms when determining a score (vital signs should be **weighed** more). 
 
 ### Weighing Symptoms and Models
-A novel approach to this problem is to use 2 machine learning models. 1 model considers only symptoms while the other considers only vitals (data labeled with triage scores). Given a patient with certain vitals and symptoms, 2 different scores are given based on their vital signs and symptoms. Then, their vital score is multiplied by 0.85 and their symptom score is multiplied by 0.15. These values are then added, thus providing a final score. This process can be more concisely illustrated in the following equation: INSERT TRIAGE SCORE EQUATION. 
+A novel approach to this problem is to use 2 machine learning models. 1 model considers only symptoms while the other considers only vitals (data labeled with triage scores). Given a patient with certain vitals and symptoms, 2 different scores are given based on their vital signs and symptoms. Then, their vital score is multiplied by 0.85 and their symptom score is multiplied by 0.15. These values are then added, thus providing a final score. 
+
+This process can be more concisely illustrated in the following equation: 
+![](Screen%20Shots/TriageScoreEquation.png)
 
 This equation was found by comparing the vital prediction with the weighted prediction (See Machine Learning Data Analytics for more details). 
 
@@ -50,7 +57,8 @@ However, are symptoms really necessary?
 
 
 ## Machine Learning Data Analytics
-To determine whether weighing the models were more accurate than not including symptoms at all, these are graphs comparing the percent loss with the regular prediction (1 model) and the weighted prediction (2 models): INSERT GRAPH PICTURE
+To determine whether weighing the models were more accurate than not including symptoms at all, these are graphs comparing the percent loss with the regular prediction (1 model) and the weighted prediction (2 models): 
+![](Screen%20Shots/DataAnalytics.png)
 
 It is seen that the percent error for the weighted prediction (percent error for equation) is always lower than the vital prediction, thus proving that weighing values is more effective.
 
