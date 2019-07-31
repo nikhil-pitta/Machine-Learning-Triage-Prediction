@@ -1,0 +1,25 @@
+Examples: 
+SpO2 0.93
+Temperature  101
+Heart Rate  106
+Respiratory Rate  20
+Blood Pressure  108/70
+Symptoms: wheezing, shortness of breath
+Real Score 2
+
+Vital Signs: SpO2  1.00
+Temperature  101.6
+Heart Rate  80
+Respiratory Rate  16
+Blood Pressure  98/60
+Symptoms: normal
+Real Score: 5
+
+SpO2  96%
+Temperature  101.2
+Heart Rate  112
+Respiratory Rate  24
+Blood Pressure 102/69
+Symptoms: Wheezing, diarrhea
+Real Score: 3
+

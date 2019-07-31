@@ -1,0 +1,738 @@
+Case Study 1 continued
+ Patient Case: 59-year-old male
+ Influenza Symptoms: 100.7 temperature. Cough and aching all over
+ Chief Complaint: Cough, body aches and fever
+ Past Medical History: Hypertension, insulin-dependent diabetes, CHF, arthritis
+ Vital Signs: SpO2  91% , Temperature  100.7, Heart Rate  108, Respiratory Rate  28, Blood Pressure  170/102
+ Appearance: Awake, alert, with diaphoresis and increased work of breathing and some nasal flaring
+ PITA Score: 2
+
+Case Study 2
+ Patient Case: 55-year-old female
+ Influenza Symptoms: 101.6 temperature, cough,
+aches and pains, tolerating oral fluids
+ Chief Complaint: Sneezing, nasal congestion, cough, muscle aches
+ Past Medical History: Hypertension
+ Vital Signs: SpO2  98% , Temperature  101.6, Heart Rate  70, Respiratory Rate  16, Blood Pressure  158/92
+ Appearance: All within normal limits
+ PITA Score:
+
+
+Case Study 2 continued
+ Patient Case: 55-year-old female
+ Influenza Symptoms: 101.6 temperature, cough,
+aches and pains, tolerating oral fluids
+ Chief Complaint: Sneezing, nasal congestion, cough, generalized muscle aches
+ Past Medical History: Hypertension
+ Vital Signs: SpO2  98% , Temperature  101.6, Heart Rate  70, Respiratory Rate  16, Blood Pressure  158/92
+ Appearance: All within normal limits
+ PITA Score: 5
+Case Study 3
+
+ Patient Case: 43-year-old male
+ Influenza Symptoms: 102.6 temperature, cough,
+vomiting, diarrhea
+ Chief Complaint: Two-day history of fever and cough, with vomiting and diarrhea, vomiting
+ Past Medical History: None
+ Vital Signs: SpO2  98% , Temperature  102.6, Heart Rate  120, Respiratory Rate  20, Blood Pressure  108/74
+ Appearance: Awake and alert, with dry mucous membranes and hot, dry skin
+ PITA Score:
+
+Case Study 3 continued
+
+ Patient Case: 43-year-old male
+ Influenza Symptoms: 102.6 temperature, cough, vomiting, diarrhea
+ Chief Complaint: fever, cough, vomiting, diarrhea
+ Past Medical History: None
+ Vital Signs: SpO2  98% , Temperature  102.6, Heart Rate  120, Respiratory Rate  20, Blood Pressure  108/74
+ Appearance: Awake and alert, with dry mucous membranes and hot, dry skin
+ PITA Score: 3
+
+Case Study 4
+
+ Patient Case: 35-year-old female
+ Influenza Symptoms: 103 temperature, cough,
+achiness all over
+ Chief Complaint: Cough and fever for a few days last week. Got better, but developed high fever (up to 104) today with cough and shortness of breath. Aches all over. Tolerating fluids well
+ Past Medical History: None
+ Vital Signs: SpO2  96% , Temperature  103, Heart Rate  103, Respiratory Rate  20, Blood Pressure  126/80
+ Appearance: Awake, alert, with frequent productive cough (green sputum)
+ PITA Score:
+
+Case Study 4 continued
+ Patient Case: 35-year-old female
+ Influenza Symptoms: 103 temperature, cough,
+achiness all over
+ Chief Complaint: Cough, fever
+ Past Medical History: None
+ Vital Signs: SpO2  96% , Temperature  103, Heart Rate  103, Respiratory Rate  20, Blood Pressure  126/80
+ Appearance: Awake, alert, with frequent productive cough (green sputum)
+ PITA Score: 3
+
+Case Study 5
+ Patient Case: 80-year-old male, nursing home resident
+ Influenza Symptoms: 102 temperature, dry cough,
+headache, severe muscle aches/pains
+ Chief Complaint: Sudden onset of flu-like symptoms, including fever, cough, chest discomfort, and worsening respiratory distress
+ Past Medical History: Congestive heart failure
+ Vital Signs: SpO2  89% , Temperature  102, Heart Rate  122, Respiratory Rate  28, Blood Pressure  96/52
+ Appearance: Lethargic, pale, and in severe respiratory distress with retractions. Sitting in a tripod position
+ PITA Score:
+
+Case Study 5 continued
+ Patient Case: 80-year-old male, nursing home resident
+ Influenza Symptoms: 102 temperature, dry cough,
+headache, severe muscle aches/pains
+ Chief Complaint: Sudden onset of flu-like symptoms, including fever, cough, chest discomfort, and worsening respiratory distress.
+ Past Medical History: Congestive heart failure
+ Vital Signs: SpO2  89% , Temperature  102, Heart Rate  122, Respiratory Rate  28, Blood Pressure  96/52
+ Appearance: Lethargic, pale and in severe respiratory distress with retractions. Sitting in a tripod position
+ PITA Score: 1
+ 
+Case Study 6
+ Patient Case: 38-year-old female
+ Influenza Symptoms: 101.9 temperature, labored breathing
+ Chief Complaint: Fever, cough, chest and joint pain
+ Past Medical History: Sickle cell anemia, splenectomy
+ Vital Signs: SpO2  90% , Temperature  101.9, Heart Rate  138, Respiratory Rate  42, Blood Pressure  126/72
+ Appearance: Writhing in pain, unable to speak complete sentences, use of accessory muscles of breathing. Grunting
+ PITA Score:
+
+Case Study 6 continued
+ Patient Case: 38-year-old female
+ Influenza Symptoms: 101.9 temperature, labored breathing
+ Chief Complaint: Fever, cough, chest and joint pain
+ Past Medical History: Sickle cell anemia, splenectomy
+ Vital Signs: SpO2  90% , Temperature  101.9, Heart Rate  138, Respiratory Rate  42, Blood Pressure  126/72
+ Appearance: Writhing in pain, unable to speak complete sentences, use of accessory muscles of breathing. Grunting
+ PITA Score: 1
+
+Case Study 7
+
+ Patient Case: 7-year-old male
+ Influenza Symptoms: 102.7 temperature, sore throat
+ Chief Complaint: Patient's throat hurts. Hasn't been eating or drinking much for two days. Decreased urine output. Brother has the flu. Family is living in a domestic violence shelter and has no money or access to antipyretics
+ Past Medical History: None. Immunizations are up to date
+ Vital Signs: SpO2  98% , Temperature  102.7, Heart  Rate  118, Respiratory Rate  22
+ Appearance: Awake and alert. Hot, dry skin and dry lips
+ PITA Score:
+
+Case Study 7 continued
+ Patient Case: 7-year-old male
+ Influenza Symptoms: 102.7 temperature, sore throat
+ Chief Complaint: Patient's throat hurts. Hasn't been eating or drinking much for 2 days. Decreased urine output. Brother has the flu. Family is living in a domestic violence shelter and has no money or access to anti-pyretics
+ Past Medical History: None. Immunizations are up to date
+ Vital Signs: SpO2  98% , Temperature  102.7, Heart Rate 118, Respiratory Rate  22, Blood Pressure 100/65
+ Appearance: Awake and alert. Hot, dry skin and dry lips
+ PITA Score: 4
+
+Case Study 8
+ Patient Case: 29-year-old female
+ Influenza Symptoms: 101 temperature, cough, wheezing, and shortness of breath
+ Chief Complaint: Cough and fever for two days with increasing shortness of breath and wheezing. Has been taking Albuterol inhaler several times a day
+ Past Medical History: Asthma (uses inhaler daily year-round)
+ Vital Signs: SpO2  93% , Temperature  101, Heart Rate  106, Respiratory Rate  20, Blood Pressure  108/70
+ Appearance: Awake and alert. Increased work of breathing and mild retractions
+ PITA Score:
+Case Study 8 continued
+ Patient Case: 29-year-old female
+ Influenza Symptoms: 101 temperature, cough, wheezing,
+and shortness of breath
+ Chief Complaint: Cough and fever for two days with increasing shortness of breath and wheezing. Has been taking Albuterol inhaler several times a day
+ Past Medical History: Asthma (uses inhaler daily year-round)
+ Vital Signs: SpO2  93% , Temperature  101, Heart Rate  106, Respiratory Rate  20, Blood Pressure  108/70
+ Appearance: Awake and alert. Increased work of breathing and mild retractions
+ PITA Score: 2
+Case Study 9
+
+ Patient Case: 18-month-old female
+ Influenza Symptoms: 101.2 temperature, cough, wheezing
+ Chief Complaint: Patient became ill two days ago with a productive cough and temperature up to 102. Patient's older sibling has been home with the flu for several days. Patient began wheezing this morning
+ Past Medical History: None. Fully immunized (including flu)
+ Vital Signs: SpO2  96% , Temperature  101.2 , Heart Rate  112, Respiratory Rate  24
+ Appearance: Awake and alert. Frequent cough with occasional audible wheezing noted. Drinking juice during triage. Respirations nonlabored. Skin colored pink
+ PITA Score:
+Case Study 9 continued
+
+ Patient Case: 18-month-old female
+ Influenza Symptoms: 101.2 temperature, cough, wheezing
+ Chief Complaint: Patient became ill two days ago with a productive cough and temperature up to 102 . Patient's older sibling has been home with the flu for several days. Patient began wheezing this morning
+ Past Medical History: None. Fully immunized (including flu)
+ Vital Signs: SpO2  96% , Temperature  101.2 , Heart Rate  112, Respiratory Rate  24, Blood Pressure 102/69
+ Appearance: Awake and alert. Frequent cough with occasional audible wheezing noted. Drinking juice during triage. Respirations non-labored. Skin colored pink
+ PITA Score: 3
+Case Study 10
+
+ Patient Case: 22-year-old female
+ Influenza Symptoms: 101.6 temperature, aches all over
+ Chief Complaint: Works as a nanny and one of the children she cares for was diagnosed with influenza yesterday
+ Past Medical History: No past medical history
+ Vital Signs: SpO2  100% , Temperature  101.6, Heart Rate  80, Respiratory Rate  16, Blood Pressure  98/60
+ Appearance: All within normal limits
+ PITA Score:
+Case Study 10 continued
+
+ Patient Case: 22-year-old female
+ Influenza Symptoms: 101.6 temperature, aches all over
+ Chief Complaint: Works as a nanny and one of the children she cares for was diagnosed with influenza yesterday
+ Past Medical History: No past medical history
+ Vital Signs: SpO2  100% , Temperature  101.6, Heart Rate  80, Respiratory Rate  16, Blood Pressure  98/60
+ Appearance: All within normal limits
+ PITA Score: 5
+
+Case Study 11
+ Patient Case: 25-year-old male
+ Influenza Symptoms: 103.2  temperature, sore throat, body aches, able to keep fluids down
+ Chief Complaint: "I should have listened to my mother," reports a 25-year-old male. "She told me to get a flu shot but I was too busy. Now I think I have it. My throat is sore and I ache all over."
+ Past Medical History: None
+ Vital Signs: SpO2  100% , Temperature 103.2, Heart Rate  104, Respiratory Rate 20, , BP  110/75
+ Appearance: Dry mucous membranes, hurts to swallow but able to take fluids, no respiratory distress
+ PITA Score:
+
+Case Study 11 continued
+ Patient Case: 25-year-old male
+ Influenza Symptoms: 103.2 temperature, sore throat, body aches, able to keep fluids down
+ Chief Complaint: "I should have listened to my mother," reports a 25-year-old male. "She told me to get a flu shot but I was too busy. Now I think I have it. My throat is sore and I ache all over."
+ Past Medical History: None
+ Vital Signs: SpO2  100% , Temperature 103.2, Heart Rate  104, Respiratory Rate 20, Blood Pressure  110/75
+ Appearance: Dry mucous membranes, hurts to swallow but able to take  fluids, no respiratory distress
+ PITA Score: 4
+Case Study 12
+
+ Patient Case: 50-year-old homeless male
+ Influenza Symptoms: 102 temperature. Productive cough
+ Chief Complaint: Patient dropped off by police who found patient sleeping in a barrel in a park in 30 weather. Patient smokes and has been coughing "for a few days"
+ Past Medical History: Depression
+ Vital Signs: SpO2  97% , Temperature  102 , Heart Rate  98, Respiratory Rate  16, Blood Pressure  140/76
+ Appearance: Awake and alert. Mucous membranes dry. Drinking juice and hungrily eating crackers
+ PITA Score:
+
+
+Case Study 12 continued
+
+ Patient Case: 50-year-old homeless male
+ Influenza Symptoms: 102 temperature. Productive cough
+ Chief Complaint: Patient dropped off by police who found patient sleeping in a barrel in a park in 30 weather. Patient smokes and has been coughing "for a few days"
+ Past Medical History: Depression
+ Vital Signs: SpO2  97% , Temperature  102 , Heart Rate  98, Respiratory Rate  16, Blood Pressure  140/76
+ Appearance: Awake and alert. Mucous membranes dry. Drinking juice and hungrily eating crackers
+ PITA Score: 4
+Case Study 13
+
+ Patient Case: 2-month-old infant girl
+ Influenza Symptoms: 101.7 temperature and cough
+ Chief Complaint: Flu-like symptoms over the last three days with nasal congestion and cough with thick mucous. Mother reports not being able to wake baby. EMS noted she was "floppy" when they arrived
+ Past Medical History: None
+ Vital Signs: SpO2  92% , Temperature  101.7, Heart Rate  220, Respiratory Rate  22
+ Appearance: Responds to pain with weak cry. Bluish color to skin. Retractions
+ PITA Score:
+
+Case Study 13 continued
+
+ Patient Case: 2-month-old infant girl
+ Influenza Symptoms: 101.7 temperature and cough
+ Chief Complaint: Flu-like symptoms over the last three days with nasal congestion and cough with thick mucous. Mother reports not being able to wake baby. EMS noted she was "floppy" when they arrived
+ Past Medical History: None
+ Vital Signs: SpO2  92% , Temperature  101.7, Heart Rate  220, Respiratory Rate  22, Blood Pressure 121/72
+ Appearance: Responds to pain with weak cry. Bluish color to skin. Retractions
+ PITA Score: 1
+Case Study 14
+
+ Patient Case: 68-year-old female
+ Influenza Symptoms: 101 temperature, cough,
+and vomiting
+ Chief Complaint: Patient is recovering at home from deep vein thrombosis. Nurse came to draw blood for an INR level. Told nurse that she has had a fever and cough for two days. Vomiting for 24 hours.
+ Past Medical History: Hip replacement two months ago
+ Vital Signs: SpO2  99% , Temperature  101, Heart Rate  83, Respiratory Rate  16, Blood Pressure  152/75
+ Appearance: Awake and alert. No respiratory distress noted. Lips dry and cracked.
+ PITA Score:
+
+Case Study 14 continued
+
+ Patient Case: 68-year-old female
+ Influenza Symptoms: 101 temperature, cough,
+and vomiting
+ Chief Complaint: Patient is recovering at home from deep vein thrombosis. Nurse came to draw blood for an INR level. Told nurse that she has had a fever and cough for two days. Vomiting for 24 hours.
+ Past Medical History: Hip replacement two months ago
+ Vital Signs: SpO2  99% , Temperature  101, Heart Rate  83, Respiratory Rate  16, Blood Pressure  152/75
+ Appearance: Awake and alert. No respiratory distress noted. Lips dry and cracked
+ PITA Score: 4
+
+Case Study 15
+
+ Patient Case: 70-year-old female
+ Influenza Symptoms: 100.7 temperature, cough
+ Chief Complaint: Patient has had dry cough for two weeks. Worried she might have the flu because she volunteers in an elementary school
+ Past Medical History: Post-menopausal but no meds or comorbidities
+ Vital Signs: SpO2  99% , Temperature  100.7, Heart Rate  63, Respiratory Rate  16, Blood pressure  104/66
+ Appearance: Awake and alert. Active, fit older adult, yoga
+teacher. No respiratory distress, lungs clear
+ PITA Score:
+
+Case Study 15 continued
+
+ Patient Case: 70-year-old female
+ Influenza Symptoms: 100.7 temperature, cough
+ Chief Complaint: Patient has had dry cough for two weeks. Worried she might have the flu because she volunteers in an elementary school
+ Past Medical History: Post-menopausal but no meds or comorbidities
+ Vital Signs: SpO2  99% , Temperature  100.7, Heart Rate  63, Respiratory Rate  16, Blood Pressure  104/66
+ Appearance: Awake and alert. Active, fit older adult, yoga
+teacher. No respiratory distress, lungs clear.
+ PITA Score: 5
+Case Study 16
+ Patient Case: 30-day-old infant
+ Influenza Symptoms: 101 temperature, cough, unable to nurse
+ Chief Complaint: Emergency Medical Services (EMS) calls in to report they are en route with a 30-day-old infant with respiratory difficulty. The mother reported that her other two children have been sick with flu-like symptoms. She also thinks he stopped breathing for a few seconds
+ Past Medical History: None
+ Vital Signs: SpO2  88% , Heart Rate  92, Respiratory Rate  56
+ Appearance: Increased respiratory effort, pale, decreased responsiveness
+ PITA Score:
+
+Case Study 16 continued
+ Patient Case: 30-day-old infant
+ Influenza Symptoms: 101 temperature , cough, unable to nurse
+ Chief Complaint: Emergency Medical Services (EMS) calls in to report they are en route with a 30-day-old infant with respiratory difficulty. The mother reported that her other two children have been sick with flu-like symptoms. She also thinks he stopped breathing for a few seconds
+ Past Medical History: None
+ Vital Signs: SpO2  88% , Temperature 101, Heart Rate  92, Respiratory Rate  56, Blood Pressure 128/75
+ Appearance: Increased respiratory effort, pale, decreased responsiveness
+ PITA Score: 1
+
+Case Study 17
+ Patient Case: 28-year-old female
+ Influenza Symptoms: 98.6 temperature , no symptoms, able to tolerate fluids
+ Chief Complaint: "I'm getting married next Saturday and I can't get sick," says a worried 28-year-old female. "They closed my office because just about everyone has the flu. I had my flu shot but is there anything else you can do?"
+ Past Medical History: No past medical history
+ Vital Signs: SpO2  100% , Temperature 98.6, Heart Rate  60, Respiratory Rate  16, Blood Pressure  125/65
+ Appearance: All within normal limits
+ PITA Score:
+
+Case Study 17 continued
+ Patient Case: 28-year-old female
+ Influenza Symptoms: 98.6 temperature , no symptoms, able to tolerate fluids
+ Chief Complaint: "I'm getting married next Saturday and I can't get sick," says a worried 28-year-old female. "They closed my office because just about everyone has the flu. I had my flu shot but is there anything else you can do?"
+ Past Medical History: No past medical history
+ Vital Signs: SpO2  100% , Temperature 98.6, Heart Rate  60, Respiratory Rate  16, Blood Pressure  125/65
+ Appearance: All within normal limits
+ PITA Score: 5
+
+Case Study 18
+ Patient Case: 2-year-old male
+ Influenza Symptoms: 101 temperature rectal, vomiting, diarrhea, dry cough
+ Chief Complaint: "This poor little guy got the flu from my
+other kids. He's had it worse than any of them with the
+vomiting and diarrhea," reports the mother, while the child fussing in her arms
+ Past Medical History: None, immunizations are up to date; child has received the seasonal influenza vaccination
+ Vital Signs: Heart Rate  110, Respiratory Rate  28, SpO2  99%
+ Appearance: Awake, alert, cranky child. Lips are dry and cracked and last wet diaper was a few hours ago
+ PITA Score:
+
+Case Study 18 continued
+ Patient Case: 2-year-old male
+ Influenza Symptoms: 101 temperature rectal, vomiting, diarrhea, dry cough
+ Chief Complaint: "This poor little guy got the flu from my
+other kids. He's had it worse than any of them with the
+vomiting and diarrhea," reports the mother, while the child is fussing in her arms
+ Past Medical History: None, immunizations are up to date; child has received the seasonal influenza vaccination
+ Vital Signs:  SpO2  99% , Temperature 101, Heart Rate  110, Respiratory Rate  28, Blood Pressure 102/71
+ Appearance: Awake, alert, cranky child. Lips are dry and cracked and last wet diaper was a few hours ago
+ PITA Score: 3
+
+Case Study 19
+ Patient Case: 24-year-old male
+ Influenza Symptoms: 102.2 temperature , cough shortness of breath
+ Chief Complaint: Increasing cough and shortness of breath over last week
+ Past Medical History: Cystic fibrosis, double lung transplant seven months ago
+ Vital Signs: Heart Rate  116, Respiratory Rate  28, SpO2  90% , Blood Pressure  112/72
+ Appearance: Awake, alert, increased work of breathing
+ PITA Score:
+
+Case Study 19 continued
+ Patient Case: 24-year-old male
+ Influenza Symptoms: 102.2 temperature , cough, shortness of breath
+ Chief Complaint: Increasing cough and shortness of breath over last week
+ Past Medical History: Cystic fibrosis, double lung transplant seven months ago
+ Vital Signs: SpO2  90% , Temperature 102.2, Heart Rate  116, Respiratory Rate  28, Blood Pressure  112/72
+ Appearance: Awake, alert, increased work of breathing
+ PITA Score: 2
+Case Study 20
+
+ Patient Case: 48-year-old female
+ Influenza Symptoms: 98.6 temperature, no symptoms, able to tolerate fluids
+ Chief Complaint: Works in a school full of kids who are home with the flu. Tried twice to get the pandemic flu shot but told not high risk and can't get it. Requesting a pandemic flu shot or Tamiflu prescription in case she gets sick. No acute complaints
+ Past Medical History: No past medical history
+ Vital Signs: SpO2  100% , Temperature  98.6, Heart Rate  70, Respiratory Rate  18, Blood Pressure  112/60
+ Appearance: All within normal limits
+ PITA Score:
+
+Case Study 20 continued
+ Patient Case: 48-year-old female
+ Influenza Symptoms: 98.6 temperature, no symptoms, able to tolerate fluids
+ Chief Complaint: Works in a school full of kids who are home
+with the flu. Tried twice to get the pandemic flu shot but told
+not high risk and can't get it. Requesting a pandemic flu shot or Tamiflu prescription in case she gets sick. No acute complaints
+ Past Medical History: No past medical history
+ Vital Signs: SpO2  100% , Temperature  98.6, Heart Rate  70, Respiratory Rate  18, Blood Pressure  112/60
+ Appearance: All within normal limits
+ PITA Score: 5
+
+Case Study 21
+ Patient Case: 27-year-old female
+ Influenza Symptoms: 104 temperature , difficulty breathing
+ Chief Complaint: Fever of 104. Was sick with cough for past two days. Bluish discoloration of lips and skin. Family reports new onset seizures (multiple back-to-back grand mal) with progressive difficulty breathing. Actively seizing upon arrival to ED. Does not respond to verbal stimuli
+ Past Medical History: None known
+ Vital Signs: SpO2  90% (on 100% oxygen via non-rebreather mask), Temperature  104, Heart Rate  120, Respiratory Rate  34, Blood pressure  98/58
+ Appearance: Actively seizing, respirations labored, skin hot and damp
+ PITA Score:
+
+Case Study 21 continued
+
+ Patient Case: 27-year-old female
+ Influenza Symptoms: 104 temperature , difficulty breathing
+ Chief Complaint: Fever of 104. Was sick with cough for past two days. Bluish discoloration of lips and skin. Report of new onset seizures (multiple back-to-back grand mal) with progressive difficulty breathing. Actively seizing upon arrival to ED. Does not respond to verbal stimuli
+ Past Medical History: None known
+ Vital Signs: SpO2  90%, Temperature  104, Heart Rate  120, Respiratory Rate  34, Blood Pressure  98/58
+ Appearance: Actively seizing, respirations labored, skin hot and damp
+ PITA Score: 1
+
+Case Study 22
+ Patient Case: 52-year-old male
+ Influenza Symptoms: 102.9 temperature , cough
+ Chief Complaint: Cough and fever. Homeless. Doesn't' have money to buy food, fluids or antipyretics
+ Past Medical History: Schizophrenia
+ Vital Signs: Heart Rate  96, Respiratory Rate  20, SpO2  97%, Blood Pressure  155/68
+ Appearance: Awake, alert, frequent cough, hot dry skin, dry lips
+ PITA Score:
+
+Case Study 22 continued
+ Patient Case: 52-year-old male
+ Influenza Symptoms: 102.9 temperature , cough.
+ Chief Complaint: Cough and fever. Homeless. Doesn't have money to buy food, fluids or antipyretics
+ Past Medical History: Schizophrenia
+ Vital Signs: SpO2  97%, Temperature 102.9, Heart Rate  96, Respiratory Rate  20, Blood Pressure  155/68
+ Appearance: Awake, alert, frequent cough, hot to touch, dry lips
+ PITA Score: 4
+Case Study 23
+ Patient Case: 36-year-old male
+ Influenza Symptoms: 101 temperature , sore throat and cough
+ Chief Complaint: Cough (green sputum) and fever. Last used inhaler an hour ago
+ Past Medical History: Paraplegia (fall 10 years ago; spinal cord injury), multiple episodes of pneumonia, uses inhaler prn
+ Vital Signs: Heart Rate  86, Respiratory Rate  20, SpO2  95%, fever up to 103 before taking antipyretic an hour ago. Blood Pressure  134/67
+ Appearance: Awake, alert, occasional wheezing
+ PITA Score:
+
+Case Study 23 continued
+ Patient Case: 36-year-old male
+ Influenza Symptoms: 101 temperature , sore throat and cough
+ Chief Complaint: Cough (green sputum) and fever. Last used inhaler an hour ago
+ Past Medical History: Paraplegia (fall 10 years ago; spinal cord injury), multiple episodes of pneumonia, uses inhaler prn
+ Vital Signs: SpO2  95%, Temperature 103, Heart Rate  86, Respiratory Rate  20, Blood Pressure  134/67
+ Appearance: Awake, alert, occasional wheezing
+ PITA Score: 3
+
+Case Study 24
+ Patient Case: 70-year-old male
+ Influenza Symptoms: Cough, fever
+ Chief Complaint: Coughing up yellow sputum x2 weeks, fever up to 102, increased shortness of breath over baseline
+ Past Medical History: Cirrhosis, hypertension
+ Vital Signs: Temperature  100, Heart Rate  106, Respiratory Rate  32, SpO2  93%, Blood pressure  172/89
+ Appearance: Awake, alert, increased work of breathing
+ PITA Score:
+
+Case Study 24 continued
+ Patient Case: 70-year-old male
+ Influenza Symptoms: Cough, fever
+ Chief Complaint: Coughing up yellow sputum x2 weeks, fever up to 102, increased shortness of breath over baseline
+ Past Medical History: Cirrhosis, hypertension
+ Vital Signs: SpO2  93%, Temperature  100, Heart Rate  106, Respiratory Rate  32, Blood Pressure  172/89
+ Appearance: Awake, alert, increased work of breathing
+ PITA Score: 2
+
+Case Study 25
+ Patient Case: 14-year-old female
+ Influenza Symptoms: Cough
+ Chief Complaint: Patient is from out of town, traveling with school group, was exposed to influenza on the bus. Coughing. History of asthma but doesn't have her inhaler with her
+ Past Medical History: Mild asthma
+ Vital Signs: Temperature  100, Heart Rate  76, Respiratory Rate  18, SpO2  97%, Blood Pressure  110/72
+ Appearance: Awake, alert, occasional wheezing noted on auscultation
+ PITA Score:
+
+Case Study 25 continued
+ Patient Case: 14-year-old female
+ Influenza Symptoms: Cough
+ Chief Complaint: Patient is from out of town, traveling with school group, was exposed to influenza on the bus. Coughing. History of asthma but doesn't have her inhaler with her
+ Past Medical History: Mild asthma
+ Vital Signs: SpO2  97%, Temperature  100, Heart Rate  76, Respiratory Rate  18, Blood Pressure  110/72
+ Appearance: Awake, alert, occasional wheezing noted on auscultation
+ PITA Score: 4
+
+Case Study 26
+ Patient Case: 47-year-old male
+ Influenza Symptoms: Productive cough
+ Chief Complaint: Patient complains of cough with green sputum. Was sick last week with mild cough, got better and then yesterday got a lot worse. Fevers/chills all night (didn't take temp at home)
+ Past Medical History: Kidney disease  on hemodialysis
+ Vital Signs: SpO2  95%, Temperature  103, Heart Rate  96, Respiratory Rate  22, Blood Pressure  138/78
+ Appearance: Awake, alert, constant cough
+ PITA Score:
+
+Case Study 26 continued
+ Patient Case: 47-year-old male
+ Influenza Symptoms: Productive cough
+ Chief Complaint: Patient complains of cough with green sputum. Was sick last week with mild cough, got better and then yesterday got a lot worse. Fevers/chills all night (didn't take temp at home)
+ Past Medical History: Kidney disease  on hemodialysis
+ Vital Signs: SpO2  95%, Temperature  103, Heart Rate  96, Respiratory Rate  22, Blood Pressure  138/78
+ Appearance: Awake, alert, constant cough
+ PITA Score: 3
+
+Case Study 27
+ Patient Case: 6-year-old female
+ Influenza Symptoms: Cough
+ Chief Complaint: Mom states patient has had cough for three days. Can't sleep at night due to coughing. Tolerating fluids well but decreased appetite
+ Past Medical History: None. Did not receive influenza vaccine
+but is up to date on other immunizations
+ Vital Signs: SpO2  99%, Temperature  100, Heart Rate  86, Respiratory Rate  20
+ Appearance: Awake, alert, mucous membranes moist
+ PITA Score:
+
+Case Study 27 continued
+ Patient Case: 6-year-old female
+ Influenza Symptoms: Cough
+ Chief Complaint: Mom states patient has had cough for three days. Can't sleep at night due to coughing. Tolerating fluids well but decreased appetite
+ Past Medical History: None. Did not receive influenza vaccine
+but is up to date on other immunizations
+ Vital Signs: SpO2  99%, Temperature  100, Heart Rate  86, Respiratory Rate  20, Blood Pressure 98/55
+ Appearance: Awake, alert, mucous membranes moist
+ PITA Score: 5
+
+Case Study 28
+ Patient Case: 48-year-old male
+ Influenza Symptoms: Respiratory distress
+ Chief Complaint: Patient resides in rest home and was found with agonal respirations. Had been sick with cough and fever for a few days
+ Past Medical History: Post-head injury, requires total care
+ Vital Signs: SpO2  77%, Temperature  97, Heart Rate  44, Respiratory Rate  8, Blood Pressure  70/32
+ Appearance: Unresponsive, cool, clammy, agonal respirations
+ PITA Score:
+
+Case Study 28 continued
+ Patient Case: 48-year-old male
+ Influenza Symptoms: Respiratory distress
+ Chief Complaint: Patient resides in rest home and was found with agonal respirations. Had been sick with cough and fever for a few days
+ Past Medical History: Post-head injury, requires total care
+ Vital Signs:  SpO2  77%, Temperature  97, Heart Rate  44, Respiratory Rate  8, Blood Pressure  70/32
+ Appearance: Unresponsive, cool, clammy, agonal respirations
+ PITA Score: 1
+
+Case Study 29
+ Patient Case: 8-year-old female
+ Influenza Symptoms: Cough, sore throat and fever
+ Chief Complaint: Productive cough, sore throat and fever up to 103 for two days. Mom is concerned about patient's heavy breathing, which is worse when she lies down
+ Past Medical History: Spina bifida (permanently in wheel chair), pneumonia, indwelling ventriculoperitoneal shunt, multiple surgeries
+ Vital Signs: Temperature  102.2, Heart Rate  110, Respiratory Rate  30, SpO2  93%
+ Appearance: Increased work of breathing with some retractions and nasal flaring
+ PITA Score:
+
+Case Study 29 continued
+ Patient Case: 8-year-old female
+ Influenza Symptoms: Cough, sore throat and fever
+ Chief Complaint: Productive cough, sore throat and fever up to 103 for two days. Mom is concerned about patient's heavy breathing, which is worse when she lies down
+ Past Medical History: Spina bifida (permanently in wheel chair), pneumonia, indwelling ventriculoperitoneal shunt, multiple surgeries
+ Vital Signs: SpO2  93%, Temperature  102.2, Heart Rate  110, Respiratory Rate  30, Blood Pressure 135/67
+ Appearance: Increased work of breathing with some retractions and nasal flaring
+ PITA Score: 2
+
+Case Study 30
+ Patient Case: 35-year-old female
+ Influenza Symptoms: Cough with wheezing, fever
+ Chief Complaint: Cough for three days, began wheezing last night, felt feverish but didn't check temperature at home
+ Past Medical History: Eczema
+ Vital Signs: Temperature  102.1, Heart Rate  88, Respiratory Rate  24, SpO2  94%, Blood Pressure  140/78
+ Appearance: Wheezing on auscultation, awake, alert, tolerating oral fluids well
+ PITA Score:
+
+Case Study 30 continued
+ Patient Case: 35-year-old female
+ Influenza Symptoms: Cough with wheezing, fever
+ Chief Complaint: Cough for three days, began wheezing last night, felt feverish but didn't check temperature at home
+ Past Medical History: Eczema
+ Vital Signs:  SpO2  94%, Temperature  102.1, Heart Rate  88, Respiratory Rate  24, Blood Pressure  140/78
+ Appearance: Wheezing on auscultation, awake, alert, tolerating oral fluids well
+ PITA Score: 3
+
+Case Study 31
+ Patient Case: 8-month-old female
+ Influenza Symptoms: Cough
+ Chief Complaint: Dad runs in with baby in his arms and screams for help. States child has had cough for two days and now "isn't acting right." He went to check on child after naptime and can't rouse her
+ Past Medical History: None
+ Vital Signs: SpO2  82%, Temperature  104 rectal, Heart Rate  78, Respiratory Rate  22
+ Appearance: Decreased responsiveness and poor muscle tone
+ PITA Score:
+
+Case Study 31 continued
+ Patient Case: 8-month-old female
+ Influenza Symptoms: Cough
+ Chief Complaint: Dad runs in with baby in his arms and screams for help. States child has had cough for two days and now "isn't acting right."  He went to check on child after naptime and can't rouse her
+ Past Medical History: None
+ Vital Signs:  SpO2  82%, Temperature  104, Heart Rate  78, Respiratory Rate  22, Blood Pressure 135/73
+ Appearance: Decreased responsiveness and poor muscle tone
+ PITA Score: 1
+
+Case Study 32
+ Patient Case: 29-year-old female
+ Influenza Symptoms: Cough, vomiting
+ Chief Complaint: Arrives with family friend who states that patient has had cough for three days, vomiting multiple times since last night. Lives with her mother (caregiver) who is home sick with influenza. Vomited up Tylenol this morning
+ Past Medical History: Anoxic brain injury at birth
+ Vital Signs: Temperature  101.8, Heart Rate  94, Respiratory Rate  18, SpO2  97%, Blood Pressure  120/66
+ Appearance: Mucous membranes dry, decreased urine output in last 12 hours
+ PITA Score:
+
+Case Study 32 continued
+ Patient Case: 29-year-old female
+ Influenza Symptoms: Cough, vomiting
+ Chief Complaint: Arrives with family friend who states that patient has had cough for three days, vomiting multiple times since last night. Lives with her mother (caregiver) who is home sick with influenza. Vomited up Tylenol this morning
+ Past Medical History: Anoxic brain injury at birth
+ Vital Signs: SpO2  97%, Temperature  101.8, Heart Rate  94, Respiratory Rate  18, Blood Pressure  120/66
+ Appearance: Mucous membranes dry, decreased urine output in last 12 hours
+ PITA Score: 3
+
+Case Study 33
+ Patient Case: 50-year-old male
+ Influenza Symptoms: Cough
+ Chief Complaint: Productive cough for three days. Can't sleep at night due to coughing
+ Past Medical History: None
+ Vital Signs: Temperature  103, Heart Rate  99, Respiratory Rate  28, SpO2  92%, Blood Pressure  149/68
+ Appearance: Awake and alert, hot dry skin
+ PITA Score:
+
+Case Study 33 continued
+ Patient Case: 50-year-old male
+ Influenza Symptoms: Cough
+ Chief Complaint: Productive cough for three days,. Can't sleep at night due to coughing
+ Past Medical History: None
+ Vital Signs: SpO2  92%, Temperature  103, Heart Rate  99, Respiratory Rate  28, Blood Pressure  149/68
+ Appearance: Awake and alert, hot dry skin.
+ PITA Score: 3
+
+Case Study 34
+ Patient Case: 81-year-old male
+ Influenza Symptoms: Cough, shortness of breath
+ Chief Complaint: Cough for a week, with increasing shortness of breath, can't walk more than a few steps
+ Past Medical History: Normally active older adult with hypertension, high cholesterol, prostate cancer 10 years ago
+ Vital Signs: Temperature  100, Heart Rate  116, Respiratory Rate  28, SpO2  92%, Blood Pressure  146/82
+ Appearance: Awake and alert, rapid respirations, increased work of breathing
+ PITA Score:
+
+Case Study 34 continued
+ Patient Case: 81-year-old male
+ Influenza Symptoms: Cough, shortness of breath
+ Chief Complaint: Cough for a week, with increasing shortness of breath, can't walk more than a few steps
+ Past Medical History: Normally active older adult with hypertension, high cholesterol, prostate cancer 10 years ago
+ Vital Signs: SpO2  92%, Temperature  100, Heart Rate  116, Respiratory Rate  28, Blood Pressure  146/82
+ Appearance: Awake and alert, rapid respirations, increased work of breathing
+ PITA Score: 2
+
+Case Study 35
+ Patient Case: 2-month-old male
+ Influenza Symptoms: Respiratory arrest
+ Chief Complaint: Baby stopped breathing and parents called EMS. Patient was apneic when EMS arrived. They are bagging the patient and doing chest compressions
+ Past Medical History: Prematurity (born at 27 weeks gestation), was on ventilator for first weeks of life
+ Vital Signs: Temperature  101 rectal, Heart Rate  42, SpO2  88% on 100% oxygen via bag/valve/mask
+ Appearance: Cyanotic
+ PITA Score:
+
+Case Study 35 continued
+ Patient Case: 2-month-old male
+ Influenza Symptoms: Respiratory arrest
+ Chief Complaint: Baby stopped breathing and parents called EMS. Patient was apneic when EMS arrived. They are bagging the patient and doing chest compressions
+ Past Medical History: Prematurity (born at 27 weeks gestation), was on ventilator for first weeks of life
+ Vital Signs: SpO2  88%, Temperature  101, Heart Rate  42, Respiratory Rate 29, Blood Pressure 132/77
+ Appearance: Cyanotic
+ PITA Score: 1
+
+Case Study 36
+ Patient Case: 24-year-old female
+ Influenza Symptoms: Cough, fever
+ Chief Complaint: Cough for two days with fever up to 101.5
+ Past Medical History: None
+ Vital Signs: SpO2  99%, Temperature  101, Heart Rate  76, Respiratory Rate  18, Blood Pressure  127/72
+ Appearance: Awake and alert, tolerating oral fluids well, occasional cough
+ PITA Score:
+
+Case Study 36 continued
+ Patient Case: 24-year-old female
+ Influenza Symptoms: Cough, fever
+ Chief Complaint: Cough for two days with fever up to 101.5
+ Past Medical History: None
+ Vital Signs: SpO2  99%, Temperature  101, Heart Rate  76, Respiratory Rate  18, Blood Pressure  127/72
+ Appearance: Awake and alert, tolerating oral fluids well, occasional cough
+ PITA Score: 5
+
+Case Study 37
+ Patient Case: 68-year-old male
+ Influenza Symptoms: Fever, shortness of breath
+ Chief Complaint: Increasing shortness of breath over last three days with fever up to 101.7
+ Past Medical History: Smoker, COPD, Hypertension, Type II diabetes
+ Vital Signs: Temperature  100.9, Heart Rate  86, Respiratory Rate  30, SpO2  90% (unsure of baseline), Blood Pressure  147/85
+ Appearance: Awake and alert, retractions and grunting with respirations, productive cough (green sputum)
+ PITA Score:
+
+Case Study 37 continued
+ Patient Case: 68-year-old male
+ Influenza Symptoms: Fever, shortness of breath
+ Chief Complaint: Increasing shortness of breath over last three days with fever up to 101.7
+ Past Medical History: Smoker, COPD, Hypertension, Type II diabetes
+ Vital Signs: SpO2  90%, Temperature  100.9, Heart Rate  86, Respiratory Rate  30, Blood Pressure  147/85
+ Appearance: Awake and alert, retractions and grunting with respirations, productive cough (green sputum)
+ PITA Score: 2
+
+Case Study 38
+ Patient Case: 44-year-old female
+ Influenza Symptoms: Cough
+ Chief Complaint: Cough, chills and headaches for three days. Also complains of nausea, vomiting and diarrhea. Has been unable to keep down fluids or antipyretics since yesterday. Last urinated over eight hours ago
+ Past Medical History: Migraines
+ Vital Signs: SpO2  97%, Temperature  102, Heart Rate  93, Respiratory Rate  20, Blood Pressure  124/65
+ Appearance: Awake and alert, lips parched, no respiratory distress
+ PITA Score:
+
+Case Study 38 continued
+ Patient Case: 44-year-old female
+ Influenza Symptoms: Cough
+ Chief Complaint: Cough, chills and headaches for three days. Also complains of nausea, vomiting and diarrhea. Has been unable to keep down fluids or antipyretics since yesterday. Last urinated over eight hours ago
+ Past Medical History: Migraines
+ Vital Signs:  SpO2  97%, Temperature  102, Heart Rate  93, Respiratory Rate  20, Blood Pressure  124/65
+ Appearance: Awake and alert, lips parched, no respiratory distress
+ PITA Score: 3
+
+Case Study 39
+ Patient Case: 47-year-old female
+ Influenza Symptoms: Cough and shortness of breath
+ Chief Complaint: Cough and shortness of breath. Family called EMS because she has been unable to breath well for the last 24 hours
+ Past Medical History: HIV
+ Vital Signs: Temperature  103.2, Heart Rate  146, Respiratory Rate  44, SpO2  86%, Blood Pressure  90/50
+ Appearance: Severe respiratory distress with extremely labored breathing, cyanosis. Pale with cool, clammy skin. Responds to verbal stimuli by opening eyes
+ PITA Score:
+
+Case Study 39 continued
+ Patient Case: 47-year-old female
+ Influenza Symptoms: Cough and shortness of breath
+ Chief Complaint: Cough and shortness of breath. Family called EMS because she has been unable to breath well for the last 24 hours
+ Past Medical History: HIV
+ Vital Signs: SpO2  86%, Temperature  103.2, Heart Rate  146, Respiratory Rate  44, Blood Pressure  90/50
+ Appearance: Severe respiratory distress with extremely labored breathing, cyanosis. Pale with cool, clammy skin. Responds to verbal stimuli by opening eyes
+ PITA Score: 1
+
+Case Study 40
+ Patient Case: 16-year-old male
+ Influenza Symptoms: Cough and fever
+ Chief Complaint: Cough and fever for three days. Started wheezing yesterday. Able to tolerate oral fluids
+ Past Medical History: Allergies, ADHD
+ Vital Signs: Temperature  102.2, Heart Rate  90, Respiratory Rate  20, SpO2  95%, Blood Pressure  120/68
+ Appearance: Awake, alert, skin warm and dry. Able to speak full sentences. Wheezing noted on auscultation
+ PITA Score:
+
+Case Study 40 continued
+ Patient Case: 16-year-old male
+ Influenza Symptoms: Cough and fever
+ Chief Complaint: Cough and fever for three days. Started wheezing yesterday. Able to tolerate oral fluids
+ Past Medical History: Allergies, ADHD
+ Vital Signs: SpO2  95%, Temperature  102.2, Heart Rate  90, Respiratory Rate  20, Blood Pressure  120/68
+ Appearance: Awake, alert, skin warm and dry. Able to speak full sentences. Wheezing noted on auscultation
+ PITA Score: 4
