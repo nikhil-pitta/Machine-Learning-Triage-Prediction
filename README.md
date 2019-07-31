@@ -1,4 +1,4 @@
-#Machine-Learning-Triage-Prediction
+# Machine-Learning-Triage-Prediction
 A machine-learning algorithm designed to predict patient triage scores in the emergency room. 
 
 ## Overview
