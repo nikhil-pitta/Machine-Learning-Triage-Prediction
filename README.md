@@ -8,7 +8,7 @@ This program uses a Java-based GUI along with a Python-based machine-learning al
 The Python files are found in the folder "Synopsys Project" and the Java files are found in the folder "Triage System GUI". 
 
 ## How it Works
-2 KNN algorithms modeled on ER patient data are made using the Python library TensorFlow. The patient data is sent to the algorithm in the form of the patient's symptoms and vitals signs along with their diagnosed triage scores (Model 1: (features = symptoms, labels = triage scores), Model 2: (features = vitals, labels = triage scores)).
+2 Convolutional Neural Networks modeled on ER patient data are made using the Python library TensorFlow. The patient data is sent to the algorithm in the form of the patient's symptoms and vitals signs along with their diagnosed triage scores (Model 1: (features = symptoms, labels = triage scores), Model 2: (features = vitals, labels = triage scores)).
 
 This is achieved through:
 1. Parsing the data.
